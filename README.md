@@ -10,3 +10,12 @@
 2. GitHub git push 连接重置
     * 原因：当前 Wi-Fi 网络连接 GitHub 不稳定，而手机热点可以正常访问。
 - [4] day 4 改进了聊天机器人，有了短期和长期记忆，也了解了提示词工程，给AI加入更准确的要求
+- [5] day5     
+* LangChain 的定位和作用
+* ChatOpenAI
+* SystemMessage、HumanMessage、AIMessage
+* LangChain 版多轮对话
+* ChatPromptTemplate
+* Prompt 模板变量（如 {question}、{role}、{requirement}）
+* LCEL（prompt | model）
+* 理解了 LangChain 的模块化和可组合思想
